@@ -5,10 +5,18 @@
 - I'm interested in the development team management.
 ### My Programming Language
 - PHP
+  - Laravel
 - Go
+  - echo
 - Python
 - JavaScript
+  - TypeScript
+  - Vue.js/Nuxt.js
+  - Node.js
 - Swift
 - Java
+  - JSP
+  - JavaServlet
+  - JavaFX
 - C
 
