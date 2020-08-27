@@ -10,8 +10,7 @@ Please waiting!
 ### My Programming Language
 - PHP
   - Laravel
-- Go
-  - echo
+- Golang
 - Python
 - JavaScript
   - TypeScript
