@@ -7,6 +7,7 @@
 ### Remaking My Portfolio Site
 I try to update my portfolo site by using Nuxt.js and tailwind.css.
 Please waiting!
+https://blissful-allen-ee0182.netlify.app/
 ### My Programming Language
 - PHP
   - Laravel
