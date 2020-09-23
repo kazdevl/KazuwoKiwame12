@@ -2,7 +2,11 @@
 ### About Me
 - I am a software engineer!!  
 - My favorite book is "The Art of Readable Code".
-- I'm interested in the development team management.
+- I'm interested in the development team management. 
+
+### About My Github In Public Repository
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KazuwoKiwame12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuwoKiwame12)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Remaking My Portfolio Site
 I try to update my portfolo site by using Nuxt.js and tailwind.css.
