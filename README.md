@@ -13,18 +13,17 @@ I try to update my portfolo site by using Nuxt.js and tailwind.css.
 Please waiting!
 https://blissful-allen-ee0182.netlify.app/
 ### My Programming Language
-- PHP
-  - Laravel
+- PHP(Laravel)
 - Golang
 - Python
-- JavaScript
-  - TypeScript
-  - Vue.js/Nuxt.js
-  - Node.js
+- JavaScript(TypeScript、Vue.js/Nuxt.js、Node.js、React)
 - Swift
 - Java
-  - JSP
-  - JavaServlet
-  - JavaFX
 - C
 
+<table>
+  <tr>
+    <td>Total visitors</td>
+    <td><img src="https://profile-counter.glitch.me/KazuwoKiwam12/count.svg" alt="" /></td>
+  </tr>
+</table>
