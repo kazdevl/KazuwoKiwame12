@@ -8,10 +8,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KazuwoKiwame12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuwoKiwame12&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Remaking My Portfolio Site
-I try to update my portfolo site by using Nuxt.js and tailwind.css.
-Please waiting!
-https://blissful-allen-ee0182.netlify.app/
+### My Portfolio Sites(always update)
+1. stylish: https://kazuwokiwame-stylish.netlify.app/
+2. simple: make private
+
 ### My Programming Language
 - PHP(Laravel)
 - Golang
