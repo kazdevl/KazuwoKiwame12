@@ -21,6 +21,9 @@
 - Java
 - C
 
+### tools
+- Netlify, Firebase, AWS, Heroku, twitterAPI
+
 <table>
   <tr>
     <td>Total visitors</td>
