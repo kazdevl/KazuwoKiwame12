@@ -10,7 +10,7 @@
 
 ### My Portfolio Sites(always update)
 1. stylish: https://kazuwokiwame-stylish.netlify.app/
-2. simple: make private
+2. simple: https://kazuwokiwame12.netlify.app/
 
 ### My Programming Language
 - PHP(Laravel)
