@@ -8,31 +8,31 @@
 **Java**
 - オセロ
 - パズドラもどき
-- WebPageWithMySQL
+- WebPageWithMySQL  
 **C**
 - tetris
 - 避けゲーム
 - 2クラス分類ツール
-- 気温の可視化プログラム
+- 気温の可視化プログラム  
 **Swift**
-- 目標度可視化アプリ
+- 目標度可視化アプリ  
 **Laravel**
 - 出勤管理アプリ
-- 日報アプリ
+- 日報アプリ  
 **Golang**
 - 感情と場所を共有するSNSアプリEmore
-- 電子書籍で、読者と筆者と他の読者同士がコミュニケーションを取れるシステムのmock
+- 電子書籍で、読者と筆者と他の読者同士がコミュニケーションを取れるシステムのmock  
 **Python**
 - テキスト分類
-- FlaskによるtwitterAPIを利用したAPI
+- FlaskによるtwitterAPIを利用したAPI  
 **Node**
-- Amazon Pollyによる音声合成プログラム
+- Amazon Pollyによる音声合成プログラム  
 **React**
 - 感情と場所を共有するSNSアプリEmore
-- 電子書籍で、読者と筆者と他の読者同士がコミュニケーションを取れるシステムのmock
+- 電子書籍で、読者と筆者と他の読者同士がコミュニケーションを取れるシステムのmock  
 **Nuxt**
 - ポートフォリオ3個
-- twitterから情報を収集し、自分だけのオリジナル本を作成し、読めるアプリ
+- twitterから情報を収集し、自分だけのオリジナル本を作成し、読めるアプリ  
 
 ### About My Github In Public Repository
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KazuwoKiwame12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
