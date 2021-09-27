@@ -1,28 +1,15 @@
-## Hello World 👋
+## Hi 👋, I'm kazu
 ### About Me
-- I am a software engineer!!  
-- My favorite book is "The Art of Readable Code".
-- I'm interested in the development team management. 
+- Backend developer  
+- I'm inspired 
 
-### About My Github In Public Repository
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KazuwoKiwame12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuwoKiwame12&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=KazuwoKiwame12&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-### My Programming Language
-- PHP(Laravel)
-- Golang
-- Python
-- JavaScript(TypeScript、Vue.js/Nuxt.js、Node.js、React)
-- Swift
-- Java
-- C
+### 📊 Github Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KazuwoKiwame12&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### tools
-- Netlify, Firebase, AWS, Heroku, twitterAPI
+![Kazu Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KazuwoKiwame12&theme=solarized_dark)
+![Kazu Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KazuwoKiwame12&theme=solarized_dark)
+![Kazu Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazuwoKiwame12&theme=solarized_dark)
 
-<table>
-  <tr>
-    <td>Total visitors</td>
-    <td><img src="https://profile-counter.glitch.me/KazuwoKiwam12/count.svg" alt="" /></td>
-  </tr>
-</table>
