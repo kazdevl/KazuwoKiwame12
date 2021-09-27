@@ -1,7 +1,7 @@
 ## Hi 👋, I'm kazu
 ### About Me
-- Backend developer  
-- I'm inspired 
+- Backend developer
+- I'm challenging myself to write code every day starting September 21, 2021, in order to understand and be able to use the basics of the technologies and things I'm interested in!
 
 ### 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=KazuwoKiwame12&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
